@@ -47,4 +47,6 @@ docker-compose down
   - [Cypher Reference Card](https://neo4j.com/docs/pdf/neo4j-cypher-refcard-stable.pdf)
   - [Graph Data Science (GDS) Library](https://neo4j.com/developer/graph-data-science/)
   - [Python Driver API Docs](https://neo4j.com/docs/api/python-driver/current/)
+  - [Neo4j with Docker](https://neo4j.com/developer/docker-run-neo4j/)
+  - [Docker compose Documentation for GPU setup](https://docs.docker.com/compose/gpu-support/)
 
